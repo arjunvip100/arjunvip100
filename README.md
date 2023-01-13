@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Data Structure & Algorithms using JavaScript**
+- 🌱 I’m currently learning **AWS & DevOps**
 
-- 💬 Ask me about **MERN, JavaScript, DevOps**
+- 💬 Ask me about **AWS & DevOps**
 
 - 📫 How to reach me **deployitarjun@gmail.com**
 
